@@ -1,0 +1,22 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Data Science",
+    "author": [
+        {
+            "type": "Person",
+            "familyName": "Doe",
+            "givenName": "Jane"
+        }
+    ],
+    "codeRepository": "https://github.com/ChloeStDizier/test_formation",
+    "dateCreated": "2024-04-18",
+    "description": "Test repository formation",
+    "keywords": "test Sofwtare Heritage",
+    "license": "https://spdx.org/licenses/LGPL-2.1-or-later",
+    "name": "test_formation",
+    "operatingSystem": "Linux",
+    "programmingLanguage": "Python",
+    "version": "1.0.0",
+    "developmentStatus": "active"
+}
